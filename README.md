@@ -15,7 +15,7 @@ Core features of this project include:
 7. When a user returns to the site, an API request is sent to API Gateway -> Lambda (LF3), which queries DynamoDB for historical recommendations, given a userID. If found, the suggestions are returned to the front-end. 
 
 ## Website Link ##
-http://ccbchatbot.com.s3-website-us-west-2.amazonaws.com/
+http://ccbchatbot.com.s3-website-us-west-2.amazonaws.com/ (Text message delivery has been disabled).
 
 Sample Architecture (From Assignment):
 <img src="yelp-concierge-cloud-architecture.png" />
